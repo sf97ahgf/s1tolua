@@ -7,5 +7,6 @@ Simply place `s1tolua.py` somewhere, and place any of the files from the `levels
 Then open a command prompt and type `python3 s1tolua.py <file> <output filename>` (e.g. `python3 s1tolua.py ghz1.bin ghz1.lua`)
 
 # Notes
-I'm not very good at Lua and right now this isn't really tested for accuracy, it's still a work in progress and probably spits out garbage data right now. <br>
-It's intended for use in a Roblox Classic Sonic Framework.
+- I'm not very good at Lua and right now this isn't really tested for accuracy, it's still a work in progress and probably spits out garbage data right now. <br>
+- It's intended for use in a Roblox Classic Sonic Framework.
+- This is still a WIP and I don't really know what I'm doing, for all I know this is completely wrong, but yeah.
