@@ -13,9 +13,7 @@ There's two modes as of v1.2b:
   1. Place a file from the `map256` folder of the Sonic 1 Disassembly in the same folder (or subfolders)
   2. Uncompress it using a Kosinski Compressor (the one I use is `koscmp.exe` from [mdcomp](https://github.com/flamewing/mdcomp))
   3. Open a Command Prompt or Terminal
-  4. Run `python3 s1tolua.py -c <filename> <outputfilename>
-Simply place `s1tolua.py` somewhere, and place any of the files from the `levels` folder of the [Sonic 1 disassembly](https://github.com/sonicretro/s1disasm) <br>
-Then open a command prompt and type `python3 s1tolua.py <file> <output filename>` (e.g. `python3 s1tolua.py ghz1.bin ghz1.lua`)
+  4. Run `python3 s1tolua.py -c <filename> <outputfilename>`
 
 # Notes
 - I'm not very good at Python, and I'm pretty sure it's a bit wrong, but yeah, still a work in progress <br>
